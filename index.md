@@ -6,9 +6,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## PROJECT
 
-
+\
 <a href="Project_Part1.html" target="_blank" style="padding: 10px; background-color: purple; color: white; border-radius: 5px; text-decoration: none;" >Project Part 1</a>
-
+\
 
 <div style="text-align: center;">
   <a href="Project_Part1.html" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none; display: inline-block; transition: background-color 0.3s;">
