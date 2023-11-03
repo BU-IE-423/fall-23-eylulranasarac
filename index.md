@@ -6,8 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## PROJECT
 
-[Project Part 1](<a href="Project_Part1.html" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Project Part 1</a>)
-<a href="Project_Part1.html" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Project Part 1</a>
+<a href="Project_Part1.html" target="_blank" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;" >Project Part 1</a>
 
 
 ### Markdown
