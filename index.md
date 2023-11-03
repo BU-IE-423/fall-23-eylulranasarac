@@ -6,16 +6,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## PROJECT
 
-
-
+<hr>
 <div style="text-align:center;">
   <a href="Project_Part1.html" target="_blank" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none; display: inline-block; transition: background-color 0.3s;"
      onmouseover="this.style.backgroundColor='#de2390'"
      onmouseout="this.style.backgroundColor='#8c0855'">Project Part 1</a>
 </div>
-
-
-
+<hr>
 
 ### Markdown
 
@@ -50,4 +47,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
