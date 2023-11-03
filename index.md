@@ -4,7 +4,11 @@ You can use the [editor on GitHub](https://github.com/BU-IE-423/fall-23-ilaydace
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-*[Project Part 1](/Project_Part1.html)
+## PROJECT
+
+[Project Part 1](/Project_Part1.html)
+<a href="/Project_Part1.html" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none;">Project Part 1</a>
+
 
 ### Markdown
 
