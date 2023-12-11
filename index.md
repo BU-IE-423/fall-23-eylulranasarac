@@ -12,11 +12,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
      onmouseover="this.style.backgroundColor='#de2390'"
      onmouseout="this.style.backgroundColor='#8c0855'">Project Part 1</a>
 </div>
+<hr>
+
 <div style="text-align:center;">
   <a href="IE423 Project Part 2 Task 1.html" target="_blank" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none; display: inline-block; transition: background-color 0.3s;"
      onmouseover="this.style.backgroundColor='#de2390'"
      onmouseout="this.style.backgroundColor='#8c0855'">IE423 Project Part 2 Task 1</a>
 </div>
+<hr>
+
 <div style="text-align:center;">
   <a href="IE423 Project Part 2 Task 2.html" target="_blank" style="padding: 10px; background-color: #007BFF; color: white; border-radius: 5px; text-decoration: none; display: inline-block; transition: background-color 0.3s;"
      onmouseover="this.style.backgroundColor='#de2390'"
